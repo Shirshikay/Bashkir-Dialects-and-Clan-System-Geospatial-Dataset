@@ -3,7 +3,7 @@ Unique geospatial dataset covering village coordinates, dialect groups, sub-dial
 
 
 * **Code & Data** (`.geojson`, `.csv`, `.shp`, `.xlsx`): 
-  The project is distributed under the **GNU GPLv3** license.
+  The project is distributed under the **Creative Commons Zero v1.0 Universal (CC0)** license.
 
   
 * **Geographical Data Sources**: 
